@@ -1,0 +1,5 @@
+{
+  "name": "VisionGuide AI",
+  "description": "A comprehensive AI-powered accessibility suite featuring visual assistance, speech & hearing support, and eye-control navigation.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
